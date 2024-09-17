@@ -1,4 +1,3 @@
-git clone https://commuterlot.com/nate101805/my-website.git
 <!DOCTYPE html>
 <html lang="en">
 <head>
